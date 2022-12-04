@@ -1,0 +1,4 @@
+sever2-private ip- 172.31.42.64
+server1-private ip-172.31.39.78
+
+ssh passwrd:Ramya@29
