@@ -1,3 +1,4 @@
 aws console
 id:ramya36.k@gmail.com
 passwrd:Ramya@29
+this is editted file
